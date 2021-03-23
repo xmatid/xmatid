@@ -1,6 +1,6 @@
 - 👋 Siemano byq
 - 👀 Programuje Manorę
-
+![alt text](https://cdn.discordapp.com/attachments/760877606584320032/823590367416811571/1920manora.png)
 
 <!---
 xmatid/xmatid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
