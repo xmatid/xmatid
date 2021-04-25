@@ -15,4 +15,4 @@
 
 
 # Join our Discord
-<a href="https://discord.gg/XjFC7zNk9D" target="blank"><img align="center" src="https://static.wikia.nocookie.net/polskapersopedia/images/3/32/Discord_logo_okr%C4%85g%C5%82e.png/revision/latest?cb=20200101201518&path-prefix=pl" alt="XjFC7zNk9D" height="128" width="128" /></a>      **best Discord server ever**
+<a href="http://bit.ly/DiscordMaTiD" target="blank"><img align="center" src="https://static.wikia.nocookie.net/polskapersopedia/images/3/32/Discord_logo_okr%C4%85g%C5%82e.png/revision/latest?cb=20200101201518&path-prefix=pl" alt="discordlol" height="128" width="128" /></a>      **best Discord server ever**
