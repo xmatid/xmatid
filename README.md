@@ -1,8 +1,18 @@
-- 👋 Siemano byq
-- 👀 Programuje Manorę
+<h1 align="center">Manora Developer</h1>
+<h3 align="center">Hi skid, the repository with backend is private, so u dont have anything to search here 😘</h3>
+<h3 align="center">but... Nice to see you here 😁</h3>
+
+
 ![alt text](https://cdn.discordapp.com/attachments/760877606584320032/823590367416811571/1920manora.png)
-# Kiedyś to zmienie, masz tu jebut wejście
-<!---
-xmatid/xmatid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# What languages im using to programming?
+<img align="left" alt="C++" width="52px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/>
+<img align="left" alt="C#" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>
+<img align="left" alt="Node.js" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
+<br />
+<br />
+
+
+
+# Join our Discord
+<a href="https://discord.gg/XjFC7zNk9D" target="blank"><img align="center" src="https://static.wikia.nocookie.net/polskapersopedia/images/3/32/Discord_logo_okr%C4%85g%C5%82e.png/revision/latest?cb=20200101201518&path-prefix=pl" alt="XjFC7zNk9D" height="128" width="128" /></a>      **best Discord server ever**
