@@ -3,7 +3,7 @@
 <h3 align="center">but... Nice to see you here 😁</h3>
 
 
-![alt text](https://cdn.discordapp.com/attachments/760877606584320032/823590367416811571/1920manora.png)
+[![Discord Presence](https://lanyard.cnrad.dev/api/861523457182924801)](https://discord.com/users/861523457182924801)
 
 # What languages im using to programming?
 <img align="left" alt="C++" width="52px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/>
